@@ -1,0 +1,13 @@
+{
+  "token": "YOUR_ACCOUNT_TOKEN",
+  "prefix": ".",
+  "ownerId": "YOUR_DISCORD_USER_ID",
+  "nodes": [
+    {
+      "name": "default",
+      "url": "lavalink.example.com:2333",
+      "auth": "yourlavalinkpassword",
+      "secure": false
+    }
+  ]
+}
